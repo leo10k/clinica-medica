@@ -1,4 +1,4 @@
-# Clinica Médica
+# Clínica Médica
 
 Projeto para aprender e treinar meu conhecimento, nele vou criar uma Api Rest e outras funcionalidades. Essa Api será usada em um sistema de site de uma clinica médica.
 
