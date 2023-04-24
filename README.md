@@ -8,6 +8,9 @@ Projeto para aprender e treinar meu conhecimento, nele vou criar uma Api Rest e 
 - CRUD (Create, Read, Update e Delete)
 - Validações
 - Paginação e ordenação
+- Tratamento de erros
+- Autenticação / Autorização
+- Tokens JWT
 
 
 ## Tecnologias
