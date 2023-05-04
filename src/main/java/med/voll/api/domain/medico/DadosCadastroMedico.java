@@ -10,8 +10,8 @@ import med.voll.api.domain.endereco.DadosEndereco;
 public record DadosCadastroMedico(
         @NotBlank
         String nome,
-        @NotBlank
-        @Email
+        @NotBlank(message = "Email é obrigatório")
+        @Email(message = "Formato do email é inválido")
         String email,
         @NotBlank
         String telefone,
